@@ -1,0 +1,19 @@
+.pink {
+    background-color: rgb(255, 175, 175);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.cool {
+    font-size: 24px;
+}
+
+#blue {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#embolden {
+    background-color: rgb(175, 255, 175);
+    font-size: 24px;
+    font-weight: bold;
+}
